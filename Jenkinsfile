@@ -54,9 +54,9 @@ steps {
 
 sh '''
 
-git pull --tags
+//git pull --tags
 
-version=$(git describe)
+//version=$(git describe)
 
 // sed -i "s/<!--build_number-->/${version}/g" ./dist/pazienza-tech/index.html
 
