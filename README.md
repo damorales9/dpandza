@@ -1,4 +1,8 @@
+[![Build Status](http://jenkins.dpandza.com/job/dpandza/job/main/badge/icon)](http://jenkins.dpandza.com/job/dpandza/job/main/)
+
 # Dpandza
+
+Duppee and Za are a couple of CS majors who love hangin out and banging touple tap flip resets off the ceiling. What with the COVID 19 pandemic and all, we created this website to attempt to bring some joy to our lives since we got bored of smashin goals in on these plat 2s.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
@@ -22,6 +26,6 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+## Website
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+This angular project is used to generate our website using the CI/CD tool [Jenkins](http://jenkins.dpandza.com) and served to our [website](dpandza.com)
