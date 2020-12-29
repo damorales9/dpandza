@@ -20,14 +20,12 @@ pipeline {
                 sh 'npm run ng lint'
             }
         }
-        /* unit tests using Karma and Jasmine
-         * Can be run manually but need a version of chrome with a heads up display
+        // unit tests using Karma and Jasmine
         stage('unit') {
             steps {
                 sh 'npm run ng test'
             }
         }
-        */
         /* end to end tests using protractor
          * Can be run manually but need a version of chrome with a heads up display
         stage('e2e') {

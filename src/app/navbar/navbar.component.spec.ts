@@ -26,6 +26,6 @@ describe('NavbarComponent', () => {
 
   it('should render navbar brand', () => {
     const compiled = fixture.nativeElement;
-    expect(compiled.querySelector('.navbar-brand a').textContent).toContain('dpandza app is running!');
+    expect(compiled.querySelector('.navbar-brand').textContent).toContain('Duppee and Za');
   });
 });
