@@ -1,4 +1,4 @@
-[![Build Status](http://jenkins.dpandza.com/job/dpandza/job/main/badge/icon)](http://jenkins.dpandza.com/job/dpandza/job/main/)
+[![Build Status](http://jenkins.dpandza.com/buildStatus/icon?job=dpandza%2Fmain)](http://jenkins.dpandza.com/job/dpandza/job/main/)
 
 # Dpandza
 
